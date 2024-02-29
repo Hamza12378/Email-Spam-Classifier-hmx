@@ -1,10 +1,8 @@
-
 # Email Spam Classifier by hmx
 
-Welcome to the "Email Spam Classifier" project repository! This project focuses on utilizing machine learning to classify emails as either spam or non-spam based on a provided dataset.
+Welcome to the "Email Spam Classifier" project repository. This project focuses on utilizing machine learning to classify emails as either spam or non-spam based on a provided dataset.
 
 ## Contents
-
 ### Dataset:
 I provide a dataset containing email data, specifically labeled to indicate whether each email is spam or non-spam. This dataset serves as a crucial resource for training and evaluating machine learning models.
 
