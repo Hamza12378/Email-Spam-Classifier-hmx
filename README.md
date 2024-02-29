@@ -22,5 +22,5 @@ To run the Jupyter Notebook and replicate the analysis, please refer to the requ
 
 ### How to Use This Repository:
 - **Clone the Repository:** Begin by cloning this repository to your local machine using the provided Git clone command.
-- **Review the Dataset:** Familiarize yourself with the dataset provided in the "data" directory. Understand the features and the target variable (spam vs. non-spam) for effective model training.
-- **Run the Jupyter Notebook:** Execute the Jupyter Notebook "Email_Spam_Classifier.ipynb" to step through the data exploration, preprocessing, model implementation, and results analysis. Additionally, utilize the pre-trained model files for integration into other frameworks.
+- **Review the Dataset:** Familiarize yourself with the dataset provided in the "data" directory. Understand the features and the target variable (spam vs  non-spam) for effective model training.
+- **Run the Jupyter Notebook:** Execute the Jupyter Notebook "Email spam classifier.ipynb" to step through the data exploration, preprocessing, model implementation, and results analysis. Additionally, utilize the pre-trained model files for integration into other frameworks.
