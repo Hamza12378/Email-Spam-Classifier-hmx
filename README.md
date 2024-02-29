@@ -7,7 +7,7 @@ Welcome to the "Email Spam Classifier" project repository. This project focuses 
 I provide a dataset containing email data, specifically labeled to indicate whether each email is spam or non-spam. This dataset serves as a crucial resource for training and evaluating machine learning models.
 
 ### Jupyter Notebook:
-The repository includes a Jupyter Notebook file named "Email_Spam_Classifier.ipynb." Within this notebook, we perform the following key tasks:
+The repository includes a Jupyter Notebook file named "Email spam classifier.ipynb." Within this notebook, we perform the following key tasks:
 
 1. **Data Exploration:** Delve into the dataset to understand its structure, feature distribution, and conduct initial data analysis.
 2. **Data Preprocessing:** Preprocess the data, addressing issues such as handling missing values, cleaning text, and performing necessary feature engineering.
